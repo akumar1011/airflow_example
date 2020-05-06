@@ -1,0 +1,3 @@
+2020-05-05 16:20:52,957 - WARNING - root - under def! new hardcode
+2020-05-05 16:20:52,957 - WARNING - root - This will get logged to a file--logging
+2020-05-05 16:20:52,957 - WARNING - root - This will get logged to a file--logger

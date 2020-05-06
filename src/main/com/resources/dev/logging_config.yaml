@@ -1,0 +1,8 @@
+config:
+  logging:
+    log_dir: /home/anupam/git/airflow_example/log/
+    level: warn
+    default_filename: airlfow_pipeline.log
+
+  formatter:
+    default: "%(asctime)s - %(levelname)s - %(name)s - %(message)s"

@@ -1,0 +1,8 @@
+{
+ "config": {
+   "home": "/home/anupam/git/airflow_example",
+   "environment": "dev",
+   "resource": "/home/anupam/git/airflow_example",
+   "logging_config": "/home/anupam/git/airflow_example/src/main/com/resources/dev/logging_config.yaml"
+ }
+}
